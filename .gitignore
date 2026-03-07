@@ -1,0 +1,6 @@
+# Virtual environment
+venv/
+.env
+__pycache__/
+*.pyc
+chroma_db/   # if you don't want to commit the vector store data
