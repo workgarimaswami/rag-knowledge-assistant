@@ -1,6 +1,6 @@
-# Enterprise Knowledge Assistant 🤖
+# RAG Knowledge Assistant 🤖
 
-A production-grade RAG (Retrieval-Augmented Generation) system for enterprise knowledge management.
+A production-grade RAG (Retrieval-Augmented Generation) system for   knowledge management.
 
 ## ✨ Features
 
@@ -8,7 +8,7 @@ A production-grade RAG (Retrieval-Augmented Generation) system for enterprise kn
 - **Multi-format Support**: PDF, DOCX, TXT, MD, CSV
 - **Smart Chunking**: Recursive and markdown-aware chunking
 - **Production Ready**: FastAPI, Docker, monitoring, caching
-- **Enterprise Features**: Source citations, relevance scoring, document management
+- **  Features**: Source citations, relevance scoring, document management
 
 ## 🚀 Quick Start
 
@@ -21,5 +21,5 @@ A production-grade RAG (Retrieval-Augmented Generation) system for enterprise kn
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/enterprise-knowledge-assistant.git
-cd enterprise-knowledge-assistant
+git clone https://github.com/yourusername/ -knowledge-assistant.git
+cd  -knowledge-assistant
